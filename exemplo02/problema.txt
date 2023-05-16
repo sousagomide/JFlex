@@ -1,0 +1,5 @@
+Crie um analisador léxico que identifique um número, uma letra 
+e uma variável.
+    - um número é composto por um único caractere entre 0 a 9
+    - uma letra é composto por um único caractere entre A-Z e a-z
+    - um identificador e composto por uma cadeia de caracteres
